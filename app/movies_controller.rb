@@ -24,12 +24,12 @@ end
 
 def can_be_created_in_a_block(args = {__})
   Movie.create do |m|
-    __
+    # __
   end
 end
 
 def can_get_the_first_item_in_the_database
-  __
+  # __
 end
 
 def can_get_the_last_item_in_the_database
