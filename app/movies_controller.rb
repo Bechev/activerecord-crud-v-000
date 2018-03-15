@@ -33,28 +33,28 @@ def can_get_the_first_item_in_the_database
 end
 
 def can_get_the_last_item_in_the_database
-  __
+  # __
 end
 
 def can_get_size_of_the_database
-  __
+  # __
 end
 
 def can_find_the_first_item_from_the_database_using_id
-  __
+  # __
 end
 
 def can_find_by_multiple_attributes
   # title == "Title"
   # release_date == 2000
   # director == "Me"
-  __
+  # __
 end
 
 def can_find_using_where_clause_and_be_sorted
   # For this test return all movies released after 2002 and ordered by
   # release date descending
-  __
+  # __
 end
 
 def can_be_found_updated_and_saved
